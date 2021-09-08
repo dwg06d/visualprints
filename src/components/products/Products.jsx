@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./products.css";
+import data from "../../resources/json/ProductList.json"
 
 export default class Products extends Component {
 	constructor(props) {
@@ -14,6 +15,7 @@ export default class Products extends Component {
 	}
 
 	render() {
+
 		let selectionElement;
 		let mediaName;
 
@@ -96,25 +98,44 @@ export default class Products extends Component {
 						<br />
 						<p>Finishing options:</p>
 						<div>
-						<input type="radio" id="hanger" name="finishing" value="hanger"/>
-						<label for="id">Ready to hang.</label></div>
+							<input
+								type="radio"
+								id="hanger"
+								name="finishing"
+								value="hanger"
+							/>
+							<label for="id">Ready to hang.</label>
+						</div>
 						<div>
-						<input type="radio" id="stand-off" name="finishing" value="stand-off"/>
-						<label for="id">Stand-offs (4 corners)</label></div>
+							<input
+								type="radio"
+								id="stand-off"
+								name="finishing"
+								value="stand-off"
+							/>
+							<label for="id">Stand-offs (4 corners)</label>
+						</div>
 						<div>
-						<input type="radio" id="none" name="finishing" value="none"/>
-						<label for="id">None</label></div>
-						<br/>
+							<input
+								type="radio"
+								id="none"
+								name="finishing"
+								value="none"
+							/>
+							<label for="id">None</label>
+						</div>
+						<br />
 						<button className="btn btn-success">Add to Cart</button>
 					</div>
-				)
+				);
 		}
 
 		return (
 			<div className="container">
+				<h1>{this.props.id}</h1>
 				<div className="row">
 					<div className="col">
-						<img src="https://i.stack.imgur.com/y9DpT.jpg" />
+						<img src="https://i.stack.imgur.com/y9DpT.jpg" alt="Image"/>
 					</div>
 					<div className="col">
 						<div className="card">

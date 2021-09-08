@@ -1,4 +1,6 @@
 import React from "react";
+//import tylorImg from '../../../public/assets/bioimages/borkstick300.gif';
+
 
 function BiosT() {
     return (
@@ -8,12 +10,13 @@ function BiosT() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/900x400"
+                src="{tylorImg}"
                 alt=""
               />
             </div>
             <div class="col-lg-5">
               <h1 class="font-weight-light">About</h1>
+              <h2>Greetings, Im Tylor</h2>
               <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy text
