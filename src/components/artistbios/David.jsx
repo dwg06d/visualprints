@@ -8,7 +8,7 @@ function BiosD() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src= {public/assests/bioimages/david.jpg}
+              src="../../../public/assets/bioimages/david.jpg"
               alt=""
             />
           </div>
