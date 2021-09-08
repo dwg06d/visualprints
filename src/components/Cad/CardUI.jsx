@@ -4,7 +4,7 @@ const Card = (props) => {
   return (
     <div className="card text-center">
       <div className="overflow">
-        <img src="holder.js/100px160" alt="" />
+        <img src="holder.js/100px160" alt="" className="card-img-top" />
       </div>
 
       <div className="card-body text-dark">
