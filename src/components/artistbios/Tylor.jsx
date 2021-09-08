@@ -1,6 +1,6 @@
 import React from "react";
 
-function BiosL() {
+function BiosT() {
     return (
       <div className="bios">
         <div class="container">
@@ -27,4 +27,4 @@ function BiosL() {
     );
   }
   
-  export default BiosL;
+  export default BiosT;
