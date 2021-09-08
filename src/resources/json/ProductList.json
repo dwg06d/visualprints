@@ -6,6 +6,56 @@
 			"artist": "Aron Horton",
 			"desc": "A photograph of a native green heron on the hunt for fish taken in the Waller Creek Watershed in Austin, Texas/",
 			"img": "src/resources/img/_MG_1486 800.jpg"
+		},
+		{
+			"id": 3425,
+			"title": "Austin With Start",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/austin-with-stars.jpg"
+		},
+		{
+			"id": 2345,
+			"title": "Chevron",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/chevron-16x20ffffff.jpg"
+		},
+		{
+			"id": 5767,
+			"title": "Nice Sunset",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/twurz_20090712_0246.jpg"
+		},
+		{
+			"id": 6547,
+			"title": "Macro Gear",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/twurz_20091001_0072.jpg"
+		},
+		{
+			"id": 4561,
+			"title": "Tiny Flower",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/twurz_20090917_0030.jpg"
+		},
+		{
+			"id": 5768,
+			"title": "Bogota Tram",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/twurz_20141230_00715.jpg"
+		},
+		{
+			"id": 9786,
+			"title": "Watch",
+			"artist": "Tylor Wurz",
+			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"img": "src/resources/img/watch.jpg"
 		}
+
 	]
 }
