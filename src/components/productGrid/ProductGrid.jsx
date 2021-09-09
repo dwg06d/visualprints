@@ -12,7 +12,7 @@ export default function ProductGrid() {
 
 					return (
 						<div key={key}>
-							<Link to="/products/1456" className="">
+							<Link to={`/products/${data.id}`} className="">
 								<div className="card">
 									<img
 										className="card-img-top"
