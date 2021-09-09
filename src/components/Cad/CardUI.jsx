@@ -1,6 +1,6 @@
 import React from "react"; 
 import { Button } from "react-bootstrap";
-import "./card-style.css"; 
+// import "./card-style.css"; 
 import { useHistory } from "react-router-dom";
 
 const Card = (props) => {
