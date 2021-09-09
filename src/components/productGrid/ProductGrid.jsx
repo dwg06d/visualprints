@@ -8,7 +8,7 @@ export default function ProductGrid() {
 			<h1>Product Grid</h1>
 			<div>
 				{products.map((data, key) => {
-          const photo = require(`../../resources/img/austin-with-stars.jpg`).default;
+          // const photo = require(`/img/austin-with-stars.jpg`).default;
 
 					return (
 						<div key={key}>
@@ -16,7 +16,7 @@ export default function ProductGrid() {
 								<div className="card">
 									<img
 										className="card-img-top"
-										src={photo}
+										src={`/img/${data.img}`}
 										alt={data.title}
 									/>
 									<div className="card-body">
