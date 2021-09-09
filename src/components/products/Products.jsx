@@ -130,21 +130,23 @@ export default class Products extends Component {
 				);
 		}
 
+		const product = data.products.find(p => p.id==this.props.id);
+
 		return (
 			<div className="container">
-				<h1>{this.props.id}</h1>
+				{/* <h1>{this.props.id}</h1> */}
 				<div className="row">
 					<div className="col">
-						<img src="https://i.stack.imgur.com/y9DpT.jpg" alt="Image"/>
+						<img src={`/img/${product.img}`} alt="Image"/>
 					</div>
 					<div className="col">
 						<div className="card">
 							<div className="card-body">
-								<h3 className="card-title">Photo title</h3>
+								<h3 className="card-title">{product.title}</h3>
 								<h5 className="card-subtitle">
-									Photographer name
+									{product.artist}
 								</h5>
-								<p className="card-text">Photo description</p>
+								<p className="card-text">{product.desc}</p>
 							</div>
 						</div>
 					</div>
