@@ -1,7 +1,16 @@
 import React from "react";
 import Card from "../components/Cad/Cards";
+import { Button } from "react-bootstrap";
+import { useHistory } from "react-router-dom";
+import "./Home-Style.css"; 
 
 export default function Home() {
+    const history = useHistory(); 
+
+    function handleClick(){
+      history.push("/store");
+    }
+
   return (
     <div>
       <br/>
@@ -25,8 +34,18 @@ export default function Home() {
       </h4>
       <hr/>
       <br/>
-      <Card/> 
+      <Card/>
       <br/>
+      <div className="home-btn">
+      <Button
+        className="btn-btn"
+        variant ="dark"
+        size="lg"
+        onClick={handleClick}
+        > 
+        View Our Catalog
+        </Button>
+      </div>
     </div>
   );
 }
