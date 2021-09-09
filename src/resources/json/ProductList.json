@@ -6,7 +6,7 @@
 			"artist": "Aron Horton",
 			"desc": "A photograph of a native green heron on the hunt for fish taken in the Waller Creek Watershed in Austin, Texas/",
 			"img": "/src/resources/img/_MG_1486 800.jpg",
-			"price": "1234"
+			"price": "543"
 		},
 		{
 			"id": 3425,
@@ -14,7 +14,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/austin-with-stars.jpg",
-			"price": "1234"
+			"price": "142"
 		},
 		{
 			"id": 2345,
@@ -22,7 +22,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/chevron-16x20ffffff.jpg",
-			"price": "1234"
+			"price": "356"
 		},
 		{
 			"id": 5767,
@@ -30,7 +30,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/twurz_20090712_0246.jpg",
-			"price": "1234"
+			"price": "234"
 		},
 		{
 			"id": 6547,
@@ -38,7 +38,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/twurz_20091001_0072.jpg",
-			"price": "1234"
+			"price": "312"
 		},
 		{
 			"id": 4561,
@@ -46,7 +46,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/twurz_20090917_0030.jpg",
-			"price": "1234"
+			"price": "536"
 		},
 		{
 			"id": 5768,
@@ -54,7 +54,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "src/resources/img/twurz_20141230_00715.jpg",
-			"price": "1234"
+			"price": "245"
 		},
 		{
 			"id": 9786,
@@ -62,7 +62,7 @@
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 			"img": "../img/watch.jpg",
-			"price": "1234"
+			"price": "546"
 		}
 
 	]
