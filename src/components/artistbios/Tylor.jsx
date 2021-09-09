@@ -1,5 +1,5 @@
 import React from "react";
-//import tylorImg from '../../../public/assets/bioimages/borkstick300.gif';
+
 
 
 function BiosT() {
@@ -10,7 +10,7 @@ function BiosT() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="{tylorImg}"
+                src="./assets/bioimages/borkstick300.gif"
                 alt=""
               />
             </div>
@@ -18,10 +18,7 @@ function BiosT() {
               <h1 class="font-weight-light">Greetings, Im Tylor</h1>
               
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy text
-                ever since the 1500s, when an unknown printer took a galley of
-                type and scrambled it to make a type specimen book.
+                I started taking photos, because I like looking at stuff. Some stuff about going to school for Radio / TV / Film, and learning photography to get better at lighting and shooting video. Ended up switching mainly to photography because the gear was lighter, and ended up shooting professionally. I am horible at writing about myself.
               </p>
             </div>
           </div>
