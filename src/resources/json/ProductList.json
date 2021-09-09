@@ -5,7 +5,7 @@
 			"title": "Green Heron",
 			"artist": "Aron Horton",
 			"desc": "A photograph of a native green heron on the hunt for fish taken in the Waller Creek Watershed in Austin, Texas/",
-			"img": "/src/resources/img/_MG_1486 800.jpg",
+			"img": "/img/_MG_1486 800.jpg",
 			"price": "543"
 		},
 		{
@@ -13,7 +13,7 @@
 			"title": "Austin With Start",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/austin-with-stars.jpg",
+			"img": "/img/austin-with-stars.jpg",
 			"price": "142"
 		},
 		{
@@ -21,7 +21,7 @@
 			"title": "Chevron",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/chevron-16x20ffffff.jpg",
+			"img": "/img/chevron-16x20ffffff.jpg",
 			"price": "356"
 		},
 		{
@@ -29,7 +29,7 @@
 			"title": "Nice Sunset",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/twurz_20090712_0246.jpg",
+			"img": "/img/twurz_20090712_0246.jpg",
 			"price": "234"
 		},
 		{
@@ -37,7 +37,7 @@
 			"title": "Macro Gear",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/twurz_20091001_0072.jpg",
+			"img": "/img/twurz_20091001_0072.jpg",
 			"price": "312"
 		},
 		{
@@ -45,7 +45,7 @@
 			"title": "Tiny Flower",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/twurz_20090917_0030.jpg",
+			"img": "/img/twurz_20090917_0030.jpg",
 			"price": "536"
 		},
 		{
@@ -53,7 +53,7 @@
 			"title": "Bogota Tram",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "src/resources/img/twurz_20141230_00715.jpg",
+			"img": "/img/twurz_20141230_00715.jpg",
 			"price": "245"
 		},
 		{
@@ -61,7 +61,7 @@
 			"title": "Watch",
 			"artist": "Tylor Wurz",
 			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "../img/watch.jpg",
+			"img": "/img/watch.jpg",
 			"price": "546"
 		}
 
