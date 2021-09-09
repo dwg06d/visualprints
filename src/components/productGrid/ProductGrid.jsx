@@ -1,6 +1,7 @@
 import React from "react";
 import { products } from "../../resources/json/ProductList.json";
 import { Link } from "react-router-dom";
+import './productgrid.css'
 
 export default function ProductGrid() {
 	return (
