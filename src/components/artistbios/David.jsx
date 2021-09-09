@@ -13,8 +13,7 @@ function BiosD() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">About</h1>
-            <h2>Hey, Im David </h2>
+            <h1 class="font-weight-light">Hey, Im David </h1>
             <p>
             I became a professional photographer after spending years as a peer counselor for justice-involved veterans in the Austin area. 
             As an army veteran myself, my love for photography started while I was deployed in Afghanistan.
