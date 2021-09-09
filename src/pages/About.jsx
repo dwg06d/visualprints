@@ -7,7 +7,7 @@ import BiosT from '../components/artistbios/Tylor.jsx';
 export default function About() {
     return (
         <div>
-            <h1>About Page</h1>
+            <h1>A Little About Us</h1>
             <BiosA />
             <BiosD />
             <BiosL />
