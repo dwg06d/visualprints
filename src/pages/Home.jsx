@@ -25,7 +25,7 @@ export default function Home() {
       </h4>
       <hr/>
       <br/>
-      <Card /> 
+      <Card/> 
       <br/>
     </div>
   );

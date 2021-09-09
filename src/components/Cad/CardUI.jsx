@@ -1,8 +1,17 @@
 import React from "react"; 
+import { Button } from "react-bootstrap";
+import { useHistory } from "react-router-dom";
 import "./card-style.css"; 
 
 
 const Card = (props) => {
+
+    const history = useHistory(); 
+
+    function handleClick(){
+      history.push(props.value);
+    }
+
   return (
     <div className="card text-center">
       <div className="overflow">
@@ -14,10 +23,19 @@ const Card = (props) => {
         <p className="card-text text-secondary">
           This art piece is a master piece of art 
         </p>
-        <a href="#" className="btn btn-outline-success">Purchase $$</a>
+        <Button
+        variant ="outline-dark"
+        size="lg"
+        onClick={handleClick}
+        > Purchase
+        </Button>
+        {/* <a href="#" className="btn btn-outline-success">Purchase $$</a> */}
       </div>
     </div>
+
   );
 };
+
+
 
 export default Card;

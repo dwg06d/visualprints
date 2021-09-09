@@ -1,9 +1,10 @@
 import React, {Component} from "react";
 import Card from "./CardUI"; 
+import img1 from "../../resources/img/austin-with-stars.jpg"; 
+import img2 from "../../resources/img/chevron-16x20ffffff.jpg";
+import img3 from "../../resources/img/twurz_20090712_0246.jpg"; 
 
-//import img1 from '../resources/img/_MG_1486 800.jpg';
 
-var img1 = "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"; 
 
 class Cards extends Component {
     render(){
@@ -11,13 +12,13 @@ class Cards extends Component {
             <div className="container-fluid d-flex justify-content-center">
                 <div className="row">
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"#1"} />
+                        <Card imgsrc={img1} title={"#1"} value={"/products/1"} />
                     </div>
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"#2"} />
+                        <Card imgsrc={img2} title={"#2"} value={"/products/2"} />
                     </div>
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"#3"} />
+                        <Card imgsrc={img3} title={"#3"} value={"/products/3"}/>
                     </div>
 
                 </div>
