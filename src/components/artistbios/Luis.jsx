@@ -15,10 +15,9 @@ function BiosL() {
             <div class="col-lg-5">
               <h1 class="font-weight-light">Luis</h1>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy text
-                ever since the 1500s, when an unknown printer took a galley of
-                type and scrambled it to make a type specimen book.
+                I not a photographer but I do take pictures every now and then. I studied in Dublin and was able 
+                to see amazing views and meet great people. This is where I began to appreciate pictures and save them 
+                as memories.  
               </p>
             </div>
           </div>
