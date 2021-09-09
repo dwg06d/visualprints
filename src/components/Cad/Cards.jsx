@@ -11,13 +11,13 @@ class Cards extends Component {
             <div className="container-fluid d-flex justify-content-center">
                 <div className="row">
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"Console"} />
+                        <Card imgsrc={img1} title={"#1"} />
                     </div>
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"PlayGround"} />
+                        <Card imgsrc={img1} title={"#2"} />
                     </div>
                     <div className="col-md-4">
-                        <Card imgsrc={img1} title={"Adventure"} />
+                        <Card imgsrc={img1} title={"#3"} />
                     </div>
 
                 </div>
