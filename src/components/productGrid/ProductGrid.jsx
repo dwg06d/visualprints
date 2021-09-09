@@ -1,7 +1,7 @@
 import React from "react";
 import { products } from "../../resources/json/ProductList.json";
 import { Link } from "react-router-dom";
-import './productgrid.css'
+import "./productgrid.css";
 
 export default function ProductGrid() {
 	return (
@@ -9,7 +9,7 @@ export default function ProductGrid() {
 			<h1>Product Grid</h1>
 			<div>
 				{products.map((data, key) => {
-          // const photo = require(`/img/austin-with-stars.jpg`).default;
+					// const photo = require(`/img/austin-with-stars.jpg`).default;
 
 					return (
 						<div key={key}>
@@ -24,6 +24,9 @@ export default function ProductGrid() {
 										<h5 className="card-title">
 											{data.title}
 										</h5>
+										<p className="card-subtitle">
+											{data.artist}
+										</p>
 									</div>
 								</div>
 							</Link>
