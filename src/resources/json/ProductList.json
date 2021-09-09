@@ -69,7 +69,7 @@
 			"id": 4321,
 			"title": "Big Bend",
 			"artist": "David Griffin",
-			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"desc": "It is a wildly beautiful natural region, with a complex and fascinating history. Over one million acres of public land including Big Bend National Park and Big Bend Ranch State Park offer hiking, camping, river running, horse riding, mountain bicycling, birding, jeep touring, and abundant sightseeing opportunities on paved and improved roads.",
 			"img": "/bigbend.jpg",
 			"price": "250"
 		},
@@ -77,15 +77,15 @@
 			"id": 5435,
 			"title": "Flowers",
 			"artist": "David Griffin",
-			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"desc": "The sunflower (Helianthus annuus) is an annual plant with a large daisy-like flower face. Its scientific name comes from the Greek words helios (“sun”) and anthos (“flower”). The artist should have probably shot this in color. But all are is subjective right?",
 			"img": "/flower.jpg",
 			"price": "200"
 		},
 		{
 			"id": 8765,
-			"title": "Springs",
+			"title": "Aerial View",
 			"artist": "David Griffin",
-			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"desc": "Within Zilker Park's 358 acres lies one of the crown jewels of Austin - Barton Springs Pool. The pool itself measures three acres in size, and is fed from underground springs with an average temperature of 68-70 degrees, ideal for year-round swimming. ",
 			"img": "/springs.jpg",
 			"price": "200"
 		},
@@ -93,7 +93,7 @@
 			"id": 2365,
 			"title": "DuckTales",
 			"artist": "David Griffin",
-			"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"desc": "Ducks have been domesticated as pets and farm animals for more than 500 years, and all domestic ducks are descended from either the Mallard or the Muscovy duck. ",
 			"img": "/waterfowl.jpg",
 			"price": "245"
 		}
