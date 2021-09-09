@@ -8,7 +8,7 @@ function BiosA() {
             <div class="col-lg-7">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src="http://placehold.it/900x400"
+                src="./assets/bioimages/Aron.jpeg"
                 alt=""
               />
             </div>
