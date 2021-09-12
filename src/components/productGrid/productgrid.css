@@ -1,3 +1,13 @@
-body {
-    
+
+#product-grid-link{
+    text-decoration: none;
 }
+
+#product-grid-link:visited{
+    text-decoration: none;
+    color: #000;
+}
+
+#product-grid-img{
+    
+} 
