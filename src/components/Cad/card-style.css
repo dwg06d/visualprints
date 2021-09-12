@@ -1,39 +1,36 @@
-body {
-    background: radial-gradient(#e5e5e5,#fff,#e5e5e5);
-}
 
-.card{
+.cardUi-card{
     width: 32rem;
     height: 35rem;
 }
 
-img{
-    width: 300px;
+.cardUi-img{
+
     height: 300px;
 }
 
-.card:hover{
+.cardUi-card:hover{
     box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253)!important; 
 }
 
-.card-body{
+.cardUi-card-body{
     padding: 3rem 0!important;
 }
 
-.card-text {
+.cardUi-card-text {
     font-size: 0.9rem; 
     padding: 0.4rem 1.9rem;
 }
 
-.overflow{
+.cardUi-overflow{
     overflow: hidden;
 }
 
-.card-img-top{
+.cardUi-card-img-top{
     transform:scale(1);
     transition: transform 0.3s ease;
 }
 
-.card-img-top:hover{
+.cardUi-card-img-top:hover{
     transform: scale(1.8);
 }
