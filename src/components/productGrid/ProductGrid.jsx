@@ -7,9 +7,9 @@ export default function ProductGrid() {
   return (
     <div className="container">
       <h1>Product Grid</h1>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm">One of three columns</div>
+      <div class="container justify-content-center">
+        <div class="row ">
+          <div class="col-sm ">One of three columns</div>
           <div class="col-sm">One of three columns</div>
           <div class="col-sm">One of three columns</div>
         </div>
