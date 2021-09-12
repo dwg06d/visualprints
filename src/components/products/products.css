@@ -1,4 +1,14 @@
+#product-container{
+	min-height: 100vh;
+}
+
 #quantity{
 	text-align: right;
 	width: 60px;
 }
+
+#product-img{
+	height: auto;
+	max-width: 100%;
+}
+
